@@ -1,3 +1,3 @@
 #Criptobook
 
-Registro de mis inversiones en criptomonedas
+Registro de mis inversiones en criptomonedas.
